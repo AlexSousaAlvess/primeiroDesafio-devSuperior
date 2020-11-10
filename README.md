@@ -6,13 +6,15 @@
 Enunciado do trabalho
 Você deverá entregar um projeto Spring Boot 2.3.x contendo um CRUD completo de web
 services REST para acessar um recurso de clientes, contendo as cinco operações básicas
-aprendidas no capítulo:
-● Busca paginada de recursos
-● Busca de recurso por i d
-● Inserir novo recurso
-● Atualizar recurso
-● Deletar recurso
-O projeto deverá estar com um ambiente de testes configurado acessando o banco de dados
+aprendidas no capítulo:</p>
+<ul>
+  <li>Busca paginada de recursos</li>
+  <li>Busca de recurso por id</li>
+  <li>Inserir novo recurso</li>
+  <li>Atualizar recurso</li>
+  <li>Deletar recurso</li>
+</ul>
+<p>O projeto deverá estar com um ambiente de testes configurado acessando o banco de dados
 H2, deverá usar Maven como gerenciador de dependência, Java 11 como l inguagem.
 Um cliente possui nome, CPF, renda, data de nascimento, e quantidade de filhos. A
 especificação da entidade Client é mostrada a seguir (você deve sequir à risca os nomes de
