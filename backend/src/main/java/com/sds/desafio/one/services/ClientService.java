@@ -1,7 +1,6 @@
 package com.sds.desafio.one.services;
 
 import java.util.Optional;
-import java.util.stream.Collectors;
 
 import javax.persistence.EntityNotFoundException;
 
